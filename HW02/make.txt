@@ -1,0 +1,4 @@
+Shell: Shell.c
+	gcc -o Shell Shell.c
+clean:
+	rm Shell
